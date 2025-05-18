@@ -16,7 +16,7 @@ const About = () => {
         <UserCircle /> About Me
       </h2>
       <p className="max-w-2xl mx-auto text-gray-300 text-lg">
-        I am a dedicated software engineer specializing in creating modern, responsive web applications using React and Tailwind CSS. My passion lies in building engaging user experiences and writing clean, efficient code.
+        I am a dedicated Web Developer specializing in creating modern, responsive web applications using React and Tailwind CSS. My passion lies in building engaging user experiences and writing clean, efficient code.
       </p>
     </motion.section>
   );
