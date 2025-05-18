@@ -4,8 +4,8 @@ import Tilt from "react-parallax-tilt";
 
 const projects = [
   { title: "Portfolio Website", description: "A personal portfolio using React and Tailwind CSS.", link: "#" },
-  { title: "AI Chatbot", description: "An AI assistant built with Python and Flask.", link: "#" },
-  { title: "E-commerce App", description: "A complete online store using React and Firebase.", link: "#" },
+  { title: "Task Manager", description: "A responsive Task Manager web app built with React and Tailwind CSS, featuring dynamic task lifecycle management and route-based status filtering.", link: "#" },
+  { title: "To Do List", description: "A simple and interactive To-Do List app built with React for managing daily tasks efficiently.", link: "#" },
 ];
 
 const Projects = () => {
